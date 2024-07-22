@@ -1,0 +1,3 @@
+Today's Agenda:
+* Induction
+* Python Fundamentals
